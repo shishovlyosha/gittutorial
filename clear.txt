@@ -2,3 +2,4 @@ pravka
 pravka in git
 pravka tree
 commit!
+for 4 undoing reset
